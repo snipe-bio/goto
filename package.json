@@ -1,15 +1,15 @@
 {
   "name": "@surishortlink/deploy-github",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "description": "A template repository tailored for deploying Suri to GitHub Pages",
-  "homepage": "https://github.com/surishortlink/suri-deploy-github#readme",
-  "bugs": "https://github.com/surishortlink/suri-deploy-github/issues",
+  "homepage": "https://github.com/snipe-bio/goto#readme",
+  "bugs": "https://github.com/snipe-bio/goto/issues",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/surishortlink/suri-deploy-github.git"
+    "url": "git+https://github.com/snipe-bio/goto.git"
   },
   "scripts": {
     "build": "suri"
